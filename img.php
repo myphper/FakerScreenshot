@@ -50,7 +50,7 @@ include "common.php";
         <div class="list-group col-md-2">
             <ul class="list-group">
               <h5>主人</h5>
-              <?php for($i=1;$i<=100;$i++){
+              <?php for($i=1;$i<=200;$i++){
                 $url = 'public/face/huaipipi/'.$i.'.jpg';
                 if (!file_exists($url)) {
                     $url = 'public/static/index/factory/images/add-pic.png';
