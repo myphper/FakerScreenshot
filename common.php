@@ -97,6 +97,9 @@
 <li>
 <a href="wechat_wallet.php">微信零钱界面生成器</a>
 </li>
+<li>
+<a href="wechat_moments.php">微信朋友圈点赞界面生成器</a>
+</li>
 </ul>
 </li>
 <li>
